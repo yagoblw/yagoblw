@@ -1,9 +1,6 @@
 ### 👋 Olá!! meu nome é Yago Bezerra, gosto muito da área de Análise de Dados e WEB.
 
-<div>
-  <a href="https://github.com/yagoblw">
-  <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoblw&layout=compact&langs_count=168&theme=dark"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
