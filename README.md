@@ -7,7 +7,7 @@
 </div>
   
   ##
-<div>
+<div style="display: inline_block"><br>
    <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoblw&layout=compact&langs_count=168&theme=dark"/>
 </div>
              
