@@ -1,4 +1,4 @@
-### 👋 Olá!! Eu sou Yago Bezerra. 
+### 👋 Olá!! meu nome é Yago Bezerra, gosto muito da área de Análise de Dados e WEB.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="YAGO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
