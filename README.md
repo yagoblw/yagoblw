@@ -1,8 +1,4 @@
-### 👋 Olá! Eu sou Yago Bezerra. 
-
-- 🌱 Eu venho estudando e aprendendo a linguagem Python
-- 📫 Contate-me pelo email: yagobezerra068@gmail.com
-- 😄 Pronouns: ele/dele
+### 👋 Olá!! Eu sou Yago Bezerra. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="YAGO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
