@@ -1,4 +1,4 @@
-### 👋 Olá!! meu nome é Yago Bezerra, sou estudante de Engenharia de Software e gosto muito da área de Análise de Dados e WEB.
+### 👋 Olá!! meu nome é Yago Bezerra, sou estudante de Engenharia de Software e gosto muito da área de Análise de Dados e BackEnd.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoblw&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
